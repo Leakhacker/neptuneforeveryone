@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Neptune-Buildable">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Neptune-Buildable.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
